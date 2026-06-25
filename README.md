@@ -1,10 +1,10 @@
-#  WALI – AI-Based Proactive System for Preventing Domestic Child Accidents
+##  WALI – AI-Based Proactive System for Preventing Domestic Child Accidents
 
 An AI-powered smart home safety system that proactively detects potential hazards around children using Computer Vision and Deep Learning. The system monitors indoor environments in real time, analyzes the relationship between children and hazardous objects, and sends early alerts to caregivers before accidents occur.
 
 ---
 
-# Project Overview
+## Project Overview
 
 WALI is designed to improve child safety inside homes by moving from traditional reactive monitoring to proactive accident prevention.
 
@@ -12,7 +12,7 @@ The system continuously monitors the environment, detects children and hazardous
 
 ---
 
-# Features
+## Features
 
 - Real-time child detection
 - Household hazard detection
@@ -26,7 +26,7 @@ The system continuously monitors the environment, detects children and hazardous
 
 ---
 
-# Technologies Used
+## Technologies Used
 
 - Python
 - Computer Vision
@@ -42,7 +42,7 @@ The system continuously monitors the environment, detects children and hazardous
 
 ---
 
-# System Workflow
+## System Workflow
 
 1. Capture live video from surveillance cameras.
 2. Detect children and household hazards.
@@ -54,7 +54,7 @@ The system continuously monitors the environment, detects children and hazardous
 
 ---
 
-# Target Hazards
+## Target Hazards
 
 The system detects multiple household hazards, including:
 
@@ -65,7 +65,7 @@ The system detects multiple household hazards, including:
 
 ---
 
-# Expected Outcomes
+## Expected Outcomes
 
 - High object detection accuracy
 - Low alert latency
@@ -75,7 +75,7 @@ The system detects multiple household hazards, including:
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 ```
 ├── README.md
@@ -85,7 +85,7 @@ The system detects multiple household hazards, including:
 
 ---
 
-# Future Improvements
+## Future Improvements
 
 - Mobile application support
 - IoT integration
@@ -96,7 +96,7 @@ The system detects multiple household hazards, including:
 
 ---
 
-# Team
+## Team
 
 - Noran Abdullah Aljodi
 - Rema Saed Althaqfi
@@ -109,6 +109,6 @@ Umm Al-Qura University
 
 ---
 
-# License
+## License
 
 This repository is intended for academic and research purposes.

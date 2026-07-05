@@ -37,8 +37,7 @@ The system continuously monitors the environment, detects children and hazardous
 - Object Tracking
 - Distance Measurement
 - Rule-Based Prediction
-- HTML / CSS / JavaScript
-- Figma (UI Prototype)
+
 
 ---
 
